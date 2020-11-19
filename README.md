@@ -7,8 +7,7 @@
 ```bash
 cd to two dir, build each service and push to docker.
 
-./mvnw clean
-./mvnw package
+./mvnw clean package
 ./mvnw install dockerfile:build
 docker push <DOCKER-USERNAME-REPO>/rest-service:latest
 kubectl run my-springboot-k8s-sample --image=<DOCKER-USERNAME-REPO>/rest-service:latest --port=8080
