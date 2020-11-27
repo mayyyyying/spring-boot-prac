@@ -34,7 +34,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157805b4-159b-4722-869e-6b99989018cb" name="Default Changelist" comment="" />
+    <list default="true" id="157805b4-159b-4722-869e-6b99989018cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract-rest-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/contract-rest-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT-stubs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT-stubs.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/contract-rest-service/target/contract-rest-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract-rest-service/target/stubs/META-INF/com.example/contract-rest-service/0.0.1-SNAPSHOT/mappings/hello/find_person_by_id.json" beforeDir="false" afterPath="$PROJECT_DIR$/contract-rest-service/target/stubs/META-INF/com.example/contract-rest-service/0.0.1-SNAPSHOT/mappings/hello/find_person_by_id.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
@@ -83,7 +90,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -92,7 +99,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ContractRestServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ContractRestClientApplication">
     <configuration name="ContractRestClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="contract-rest-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.ContractRestClientApplication" />
@@ -132,6 +139,11 @@
       <workItem from="1605600497617" duration="1665000" />
       <workItem from="1605682968119" duration="54000" />
       <workItem from="1605691836386" duration="1569000" />
+      <workItem from="1606382176012" duration="553000" />
+      <workItem from="1606382783546" duration="519000" />
+      <workItem from="1606383326313" duration="3842000" />
+      <workItem from="1606457880288" duration="2430000" />
+      <workItem from="1606487222616" duration="330000" />
     </task>
     <servers />
   </component>
@@ -167,6 +179,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="672" y="611" width="1248" height="589" key="#Project_Structure/0.23.1920.1177/-540.-1669.3008.1669@0.23.1920.1177" timestamp="1604629814425" />
+    <state x="960" y="23" width="960" height="1177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606382240302">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="960" y="23" width="960" height="1177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1606382240302" />
     <state width="1269" height="400" key="GridCell.Tab.0.bottom" timestamp="1605247244619">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -199,11 +215,12 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1269" height="400" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1605247244628" />
-    <state x="672" y="611" width="1248" height="589" key="SettingsEditor" timestamp="1604629884908">
+    <state x="570" y="128" width="1350" height="1072" key="SettingsEditor" timestamp="1606382901807">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="964" y="-1669" width="1504" height="1669" key="SettingsEditor/0.23.1920.1177/-540.-1669.3008.1669@-540.-1669.3008.1669" timestamp="1604547870969" />
     <state x="672" y="611" width="1248" height="589" key="SettingsEditor/0.23.1920.1177/-540.-1669.3008.1669@0.23.1920.1177" timestamp="1604629884908" />
+    <state x="570" y="128" width="1350" height="1072" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1606382901807" />
     <state x="-1504" y="923" width="1504" height="556" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605060416113">
       <screen x="-3008" y="-189" width="3008" height="1669" />
     </state>
